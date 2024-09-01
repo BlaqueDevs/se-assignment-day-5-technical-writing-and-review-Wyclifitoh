@@ -17,7 +17,7 @@ Understanding your audience’s expertise level is crucial in shaping how you pr
   - Use plain language and avoid jargon.
   - Explain basic concepts and functionalities.
   - Provide step-by-step instructions and practical examples.
-  - 
+    
 ## 3. How can you gauge the existing knowledge of your audience to avoid overwhelming them with jargon?
 
 - Surveys and Feedback: Use surveys or feedback forms to assess the audience's familiarity with the topic.
